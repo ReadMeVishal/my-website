@@ -2,6 +2,4 @@ My Website
 
 This is a really awesome website.
 
-now editing on update-readme branch.
-
-updated locally.
+updtes made on master on github before rebase.
