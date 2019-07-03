@@ -8,6 +8,6 @@ updtes made on master on github before rebase.
 
 this file is just a readme file
 
-##Purpous
+## Purpous
 
 the purpous of this file is to provide examples on how to use Git and Github together.
